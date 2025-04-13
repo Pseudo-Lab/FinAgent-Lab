@@ -16,15 +16,17 @@
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+> An AI-powered personalized trading agent system,
+FinAgent-Lab is a Multi-Agent Orchestration project designed to tackle the complexity of financial markets.
+By leveraging the Korea Investment & Securities OpenAPI, we are building an intelligent, collaborative agent ecosystem that optimizes investment strategies and executes trades in real-world environments.
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
-
+“AI 기술로 투자 전략을 설계하고, 에이전트로 실행하는 새로운 금융의 흐름”
+- 다양한 투자 요소를 분석하고 실행하는 Multi-Agent 트레이딩 시스템 개발
+- 금융 프로덕트의 복잡성을 개선하는 실전 중심의 AI 에이전트 실험
+- 데이터 기반 의사결정을 자동화하는 실용적 AI 솔루션 구현
+- 오픈소스 기반의 투명한 개발과 협업 문화
+- 사용자 맞춤형 전략 실행을 위한 Agent-to-Agent 협업 아키텍처 구축
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
