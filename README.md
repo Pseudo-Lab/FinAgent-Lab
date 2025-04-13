@@ -32,9 +32,19 @@ By leveraging the Korea Investment & Securities OpenAPI, we are building an inte
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 황윤희 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
-| **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
-
+| **Project Manager** | 황윤희 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |             |
+| **Member** | 전병훈 👑 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![ML](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen) |  |
+|  **Member**  | 장헌상     | ![Python](https://img.shields.io/badge/Python-Advanced-3776AB) ![ML](https://img.shields.io/badge/Machine%20Learning-Active-yellow) |                 |
+|  **Member**   | 엄창용     | ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB) ![Backend](https://img.shields.io/badge/Backend-Node.js-informational) |  |
+|  **Member**   | 최재혁     | ![ML](https://img.shields.io/badge/Machine%20Learning-Active-yellow) ![Finance](https://img.shields.io/badge/Finance-Focused-blueviolet) |      |
+|  **Member**   | 정한수     | ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-Used-brightgreen) |  |
+|  **Member**   | 김영동 👑   | ![ML](https://img.shields.io/badge/Machine%20Learning-Expert-orange) ![Data](https://img.shields.io/badge/Data%20Analysis-Focused-lightgrey) |     |
+| **Member**        | 강동석     | ![Contributor](https://img.shields.io/badge/Contributor-Pending-lightgrey) |                  |
+| **Member**        | 백인걸     | ![Contributor](https://img.shields.io/badge/Contributor-Pending-lightgrey) |              |
+| **Member**        | 왕수연     | ![Contributor](https://img.shields.io/badge/Contributor-Pending-lightgrey) |                   |
+| **Member**        | 류지수     | ![Contributor](https://img.shields.io/badge/Contributor-Pending-lightgrey) |                   |
+| **Member**        | 김윤재     | ![Contributor](https://img.shields.io/badge/Contributor-Pending-lightgrey) |                  |
+| **Member**        | 이한솔     | ![Contributor](https://img.shields.io/badge/Contributor-Pending-lightgrey) |               |
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
 ```mermaid
