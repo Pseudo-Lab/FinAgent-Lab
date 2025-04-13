@@ -34,7 +34,7 @@ By leveraging the Korea Investment & Securities OpenAPI, we are building an inte
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | 황윤희 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) |             |
 | **Member** | 전병훈  | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![ML](https://img.shields.io/badge/Machine%20Learning-Expert-brightgreen) |  |
-|  **Member**  | 장헌상     | ![Python](https://img.shields.io/badge/Python-Advanced-3776AB) ![ML](https://img.shields.io/badge/Machine%20Learning-Active-yellow) |                 |
+|  **Member**  | 장현상     | ![Python](https://img.shields.io/badge/Python-Advanced-3776AB) ![ML](https://img.shields.io/badge/Machine%20Learning-Active-yellow) |                 |
 |  **Member**   | 엄창용     | ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB) ![Backend](https://img.shields.io/badge/Backend-Node.js-informational) |  |
 |  **Member**   | 최재혁     | ![ML](https://img.shields.io/badge/Machine%20Learning-Active-yellow) ![Finance](https://img.shields.io/badge/Finance-Focused-blueviolet) |      |
 |  **Member**   | 정한수     | ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB) ![FastAPI](https://img.shields.io/badge/FastAPI-Used-brightgreen) |  |
